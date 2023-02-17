@@ -16,18 +16,16 @@ sections:
     content:
       title: Skills
       items:
+        - name: Python
+          icon: python
+          icon_pack: fab
         - name: R
-          description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Java
+          icon: java
+          icon_pack: fab
+
   - block: experience
     content:
       title: Experience
@@ -63,6 +61,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
