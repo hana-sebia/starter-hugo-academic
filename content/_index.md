@@ -45,7 +45,7 @@ sections:
           location: Lyon, France
           date_start: '2022-03-01'
           date_end: '2022-08-31'
-          description: |2-
+          description:
           The state-of-the-art tensor decomposition methods are limited to the extraction of phenotypes that only describe a combination of correlated features occurring the same day. During my internship, I introduced temporal phenotyping to extract phenotypes describing expressive sequential patterns. 
             * The implementation of a new tensor decomposition technique based on an optimization process            
             * The use of Pytorch Framework
