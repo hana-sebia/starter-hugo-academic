@@ -52,8 +52,7 @@ sections:
             * The parallelism of intensive experiments on Grid5000, a large-scale and flexible tesbed
             * Data pre-processing and préparation 
             * Results Analysis in collaboration with epidemilogists
-            * Comparison with the recent state-of-the-art models
-                    
+            * Comparison with the recent state-of-the-art models           
         - title: Healthcare Data Analyst
           company: LIRIS
           company_url: ''
