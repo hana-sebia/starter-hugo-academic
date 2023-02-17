@@ -38,27 +38,41 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Internship
+          company: Inria
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: inria
+          location: Lyon, France
+          date_start: '2022-03-01'
+          date_end: '2022-08-31'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+            The state-of-the-art tensor decomposition methods are limited to the extraction of phenotypes that only describe a combination of correlated features occurring the same day. During my internship, I introduced temporal phenotyping to extract phenotypes describing expressive sequential patterns. 
+              * The implementation of a new tensor decomposition technique based on an optimization process            
+              * The use of Pytorch Framework
+              * The parallelism of intensive experiments on Grid5000, a large-scale and flexible tesbed
+              * Data pre-processing and préparation 
+              * Results Analysis in collaboration with epidemilogists
+              * Comparison with the recent state-of-the-art models
+                    
+        - title: Healthcare Data Analyst
+          company: LIRIS
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: liris
+          location: Lyon, France
+          date_start: '2020-06-01'
+          date_end: '2021-09-30'
+          description: |2-
+          [KANOPEE] : An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
+            * Statistical description of attributes
+            * Data visualisation
+            * Machine Learning (Data Clustering)
+
+          [QUALITOP]: European project aiming to develop a smart digital platform using big data analysis to monitor health status and quality of life of cancer patients given immunotherapy. 
+            * Worked within a team of associate professors and physicians. 
+            * Understood the available data and their semantics 
+            * Elaborated the database conceptual model
+            * Data quality and pre-processing
+            * MachineLearning(DataClustering)
     design:
       columns: '2'
   
