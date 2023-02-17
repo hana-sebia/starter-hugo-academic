@@ -62,7 +62,7 @@ sections:
           date_start: '2020-06-01'
           date_end: '2021-09-30'
           description: |2-
-          KANOPEE : An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
+          KANOPEE: An application offering clinical identification and advice by a virtual companion to limit sleep problems and addictive behaviors, early markers of anxiety, stress and depression linked to the COVID-19 crisis.
             * Statistical description of attributes
             * Data visualisation
             * Machine Learning (Data Clustering)
