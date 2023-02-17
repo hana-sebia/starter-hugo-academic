@@ -45,14 +45,14 @@ sections:
           location: Lyon, France
           date_start: '2022-03-01'
           date_end: '2022-08-31'
-          description:
-          The state-of-the-art tensor decomposition methods are limited to the extraction of phenotypes that only describe a combination of correlated features occurring the same day. During my internship, I introduced temporal phenotyping to extract phenotypes describing expressive sequential patterns. 
-            * The implementation of a new tensor decomposition technique based on an optimization process            
-            * The use of Pytorch Framework
-            * The parallelism of intensive experiments on Grid5000, a large-scale and flexible tesbed
-            * Data pre-processing and préparation 
-            * Results Analysis in collaboration with epidemilogists
-            * Comparison with the recent state-of-the-art models           
+          description: |2-
+              The state-of-the-art tensor decomposition methods are limited to the extraction of phenotypes that only describe a combination of correlated features occurring the same day. During my internship, I introduced temporal phenotyping to extract phenotypes describing expressive sequential patterns. Responsibilities include:
+              * The implementation of a new tensor decomposition technique based on an optimization process            
+              * The use of Pytorch Framework
+              * The parallelism of intensive experiments on Grid5000, a large-scale and flexible tesbed
+              * Data pre-processing and préparation 
+              * Results Analysis in collaboration with epidemilogists
+              * Comparison with the recent state-of-the-art models           
         - title: Healthcare Data Analyst
           company: LIRIS
           company_url: ''
