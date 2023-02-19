@@ -40,5 +40,6 @@ title: Hana Sebia
 first_name: Alice
 email: ""
 ---
-Hana Sebia is a PhD candidate in machine and deep learning at the research institute Inria. Her research interests include healthcare data analytics, tensor factorization and time series predictive analysis. She extended a tensor factorization framework to include the temporal dimension and extract temporal behaviors. 
+Hana Sebia is a Ph.D. candidate at the French research institute Inria. She is working on machine learning for high-dimensional healthcare data analytics. Her research interests include computational phenotyping and predictive analysis for large-scale electronic health records (EHR) data. Hana obtained the master degree in Data Science from the computer science department of Claude Bernard Lyon 1 University. 
 {style="text-align: justify;"}
+
