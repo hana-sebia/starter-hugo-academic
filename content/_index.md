@@ -166,7 +166,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Conference Presentations
       filters:
         folders:
           - publication
