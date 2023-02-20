@@ -12,6 +12,10 @@ abstract: >-
   réelles provenant de l’Assistance Publique – Hôpitaux de Paris (AP-HP). Les
   résultats montrent qu’il est plus performant que les modèles les plus récents de
   décomposition et qu’il découvre des phénotypes intéressants pour les cliniciens.
+
+summary: >-
+  SWoTTeD est un nouveau modèle de décomposition tensorielle permettant l'extraction de motifs temporels.
+
 draft: false
 #slides: example
 url_pdf: ""
