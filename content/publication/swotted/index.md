@@ -32,7 +32,7 @@ author_notes: []
 publication: In *2023-23ème Conférence Francophone sur l'Extraction et Gestion
   des Connaissances*
 featured: true
-date: 2022-07-16
+date: 2023-01-16  
 url_slides: ""
 title: Une extension de la décomposition tensorielle au phénotypage temporel
 tags: []
