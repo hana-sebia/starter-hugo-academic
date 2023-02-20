@@ -1,5 +1,6 @@
 ---
 title: "Impact de la Pollution de l'Air sur la Mortalité: État des Lieux et Approches"
+url_pdf: ""
 publication_types:
   - "1"
 authors:
@@ -10,7 +11,7 @@ authors:
   - Delphine Maucort-Boulch
 publication: "*2022-22ème Conférence Francophone sur l'Extraction et
   Gestion   des Connaissances*"
-publication_short: "*EGC*"
+publication_short: In "*EGC*"
 abstract: " Air pollution constitutes a major health risk : WHO (World Health
   Organization) estimates that it contributes to 7 million premature deaths per
   year. Our study aims to evaluate its effects on mortality in the Rhone
@@ -30,4 +31,10 @@ image:
 date: 2022-01-24
 publishDate: 2022-01-24
 url_code: https://github.com/hana-sebia/impact-pollution-mortalite
+
+summary: ""
+url_project: ""
+author_notes: []
+url_slides: ""
+tags: []
 ---
