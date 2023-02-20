@@ -23,7 +23,7 @@ abstract: " Air pollution constitutes a major health risk : WHO (World Health
   1% of this pollutant induces an increase in mortality of 0.87%. As a result,
   these results constitute an argument for reducing the use of fossil fuels."
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
