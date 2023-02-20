@@ -36,13 +36,13 @@ all_day: false
 #publishDate: '2017-01-01T00:00:00Z'
 
 authors: [admin]
-tags: [Machine Learning]
+tags: [Machine Learning, Time Series Forecasting, Optimization, Tensor Decomposition]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Right
 
 links:
