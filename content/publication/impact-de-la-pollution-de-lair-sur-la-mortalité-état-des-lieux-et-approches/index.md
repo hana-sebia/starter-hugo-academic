@@ -28,4 +28,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-01-24
+publishDate: 2022-01-24
 ---

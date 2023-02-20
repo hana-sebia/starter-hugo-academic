@@ -13,7 +13,7 @@ abstract: >-
   résultats montrent qu’il est plus performant que les modèles les plus récents de
   décomposition et qu’il découvre des phénotypes intéressants pour les cliniciens.
 draft: false
-slides: example
+#slides: example
 url_pdf: ""
 publication_types:
   - "1"
@@ -36,25 +36,18 @@ date: 2023-01-16
 url_slides: ""
 title: Une extension de la décomposition tensorielle au phénotypage temporel
 tags: []
-projects:
-  - example
+
+#projects:
+#  - example
+
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-#publishDate: 2022-07-16
+publishDate: 2023-01-16
 #url_poster: ""
 url_code: https://gitlab.inria.fr/hsebia/swotted
 #doi: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
