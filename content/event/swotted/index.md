@@ -4,7 +4,7 @@ title: Une extension de la décomposition tensorielle au phénotypage temporel
 event: 2023-23ème Conférence Francophone sur l'Extraction et Gestion des Connaissances
 event_url: https://egc2023.sciencesconf.org/
 
-location: Berges du Rhône de l'Université Lumière Lyon 2
+location: Université Lumière Lyon 2
 address:
   street: 18 quai Claude Bernard
   city: Lyon
