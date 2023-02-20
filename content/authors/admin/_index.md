@@ -37,7 +37,7 @@ last_name: Wu
 role: PhD Candidate in Machine Learning
 highlight_name: true
 title: Hana Sebia
-first_name: Alice
+first_name: Hana
 email: ""
 ---
 Hana Sebia is a Ph.D. candidate at the French research institute Inria. She is working on machine learning for high-dimensional healthcare data analytics. Her research interests include computational phenotyping and predictive analysis for large-scale electronic health records (EHR) data. Hana obtained the master degree in Data Science from the computer science department of Claude Bernard Lyon 1 University. 

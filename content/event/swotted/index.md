@@ -52,7 +52,7 @@ links:
     url: 'https://www.linkedin.com/posts/hana-sebia-8b0903154_egc23-activity-7022530533259681793-n31j?utm_source=share&utm_medium=member_desktop'
 url_code: ''
 url_pdf: ''
-url_slides: 'EGC_Oral_Presentation'
+url_slides: 'uploads/EGC_Oral_Presentation.pdf'
 url_video: ''
 
 # Markdown Slides (optional).
