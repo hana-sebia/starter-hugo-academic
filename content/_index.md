@@ -217,7 +217,7 @@ sections:
       address:
         street: 56 Blvd Niels Bohr
         city: Villeurbanne
-        region: CS 52132
+        #region: CS 52132
         postcode: '69100'
         country: France
         country_code: US
