@@ -53,7 +53,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: 'uploads/EGC_Oral_Presentation.pdf'
-url_video: ''
+url_video: 'uploads/SwoTTeD.mp4'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
