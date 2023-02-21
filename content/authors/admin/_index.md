@@ -1,7 +1,6 @@
 ---
 avatar_filename: ""
-bio: My research interests include healthcare data analytics, computational
-  phenotyping, tensor factorization and predictive analysis.
+bio: My research interests include healthcare data analytics, deep learning, tensor factorization and predictive analysis.
 interests: []
 social:
   - icon: envelope
@@ -40,6 +39,6 @@ title: Hana Sebia
 first_name: Hana
 email: ""
 ---
-Hana Sebia is a Ph.D. candidate at the French research institute Inria. She is working on machine learning for high-dimensional healthcare data analytics. Her research interests include computational phenotyping and predictive analysis for large-scale electronic health records (EHR) data. Hana obtained the master degree in Data Science from the computer science department of Claude Bernard Lyon 1 University. 
+Ph.D. candidate at the French research institute Inria. I am working on machine learning for high-dimensional healthcare data analytics. My research interests include computational phenotyping and predictive analysis for large-scale electronic health records (EHR) data. I obtained the master degree in Data Science from the computer science department of Claude Bernard Lyon 1 University. 
 {style="text-align: justify;"}
 
