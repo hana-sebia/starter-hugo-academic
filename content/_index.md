@@ -25,9 +25,7 @@ sections:
         - name: Java
           icon: java
           icon_pack: fab
-        - name: C/C++
-          icon: code
-          icon_pack: fab
+  
 
   - block: experience
     content:
