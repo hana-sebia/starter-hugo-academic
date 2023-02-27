@@ -52,8 +52,7 @@ sections:
           location: Lyon, France
           date_start: '2022-11-01'
           date_end: 'ongoing'
-          #description: |2-
-
+          description:
         - title: Research Internship
           company: Inria
           company_url: 'https://team.inria.fr/aistrosight/'
