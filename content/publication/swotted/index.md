@@ -29,12 +29,12 @@ authors:
 summary: ""
 #url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *EGC*
+#publication_short: In *EGC*
 #url_source: https://gitlab.inria.fr/hsebia/swotted
 #url_video: https://youtube.com
 author_notes: [nominated for the best article award]
-publication: In *2023-23ème Conférence Francophone sur l'Extraction et Gestion
-  des Connaissances (20% of acceptance rate)*
+publication: "In *2023-23ème Conférence Francophone sur l'Extraction et Gestion
+  des Connaissances (20% of acceptance rate)*. Nominated for the best article award (20% of acceptance rate)"
 featured: true
 date: 2023-01-16  
 url_slides: ""

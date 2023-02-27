@@ -9,7 +9,7 @@ authors:
   - Marie Le Guilly
   - Mohand-Said Hacid
   - Delphine Maucort-Boulch
-publication: "*2022-22ème Conférence Francophone sur l'Extraction et
+publication: "In *2022-22ème Conférence Francophone sur l'Extraction et
   Gestion   des Connaissances*"
 #publication_short: In "*EGC*"
 abstract: " Air pollution constitutes a major health risk : WHO (World Health
