@@ -12,6 +12,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hana-sebia
+  - icon: gitlab
+    icon_pack: fab
+    link: https://gitlab.inria.fr/hsebia
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hana-sebia-8b0903154/
