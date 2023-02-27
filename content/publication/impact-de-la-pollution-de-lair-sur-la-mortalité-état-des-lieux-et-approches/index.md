@@ -11,7 +11,7 @@ authors:
   - Delphine Maucort-Boulch
 publication: "*2022-22ème Conférence Francophone sur l'Extraction et
   Gestion   des Connaissances*"
-publication_short: In "*EGC*"
+#publication_short: In "*EGC*"
 abstract: " Air pollution constitutes a major health risk : WHO (World Health
   Organization) estimates that it contributes to 7 million premature deaths per
   year. Our study aims to evaluate its effects on mortality in the Rhone
