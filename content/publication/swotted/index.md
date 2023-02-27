@@ -32,9 +32,9 @@ url_project: ""
 #publication_short: In *EGC*
 #url_source: https://gitlab.inria.fr/hsebia/swotted
 #url_video: https://youtube.com
-author_notes: [nominated for the best article award]
+author_notes:
 publication: "In *2023-23ème Conférence Francophone sur l'Extraction et Gestion
-  des Connaissances (20% of acceptance rate)*. Nominated for the Best Article Award."
+  des Connaissances (20% of acceptance rate)*. Nominated for the Best Article Award"
 featured: true
 date: 2023-01-16  
 url_slides: ""
