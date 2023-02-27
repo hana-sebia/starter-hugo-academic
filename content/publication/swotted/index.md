@@ -34,7 +34,7 @@ url_project: ""
 #url_video: https://youtube.com
 author_notes: [nominated for the best article award]
 publication: "In *2023-23ème Conférence Francophone sur l'Extraction et Gestion
-  des Connaissances (20% of acceptance rate)*. Nominated for the best article award (20% of acceptance rate)"
+  des Connaissances (20% of acceptance rate)*. Nominated for the Best Article Award."
 featured: true
 date: 2023-01-16  
 url_slides: ""
