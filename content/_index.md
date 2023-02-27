@@ -45,9 +45,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D. Position
+          company: Inria
+          company_url: 'https://team.inria.fr/aistrosight/'
+          company_logo: inria
+          location: Lyon, France
+          date_start: '2022-11-01'
+          date_end: 'ongoing'
+          #description: |2-
+
         - title: Research Internship
           company: Inria
-          company_url: ''
+          company_url: 'https://team.inria.fr/aistrosight/'
           company_logo: inria
           location: Lyon, France
           date_start: '2022-03-01'
