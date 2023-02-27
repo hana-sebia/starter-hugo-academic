@@ -14,17 +14,23 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Research Topics
       items:
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: R
-          icon: r-project
-          icon_pack: fab
-        - name: Java
-          icon: java
-          icon_pack: fab
+        #- name: Python
+          #icon: python
+          #icon_pack: fab
+        #- name: R
+          #icon: r-project
+          #icon_pack: fab
+        #- name: Java
+          #icon: java
+          #icon_pack: fab
+        - name: Machine Learning
+        - name: Deep Learning
+        - name: Tensor Decomposition
+        - name: Healthcare Data Analytics
+        - name: Computational Phenotyping
+        - name: Predictive Analysis
   
 
   - block: experience
