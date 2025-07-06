@@ -42,6 +42,7 @@ title: Hana Sebia
 first_name: Hana
 email: ""
 ---
-Ph.D. candidate at the French research institute Inria. I am working on machine learning for high-dimensional healthcare data analytics. My research interests include computational phenotyping and predictive analysis for large-scale electronic health records (EHR) data. I obtained the master degree in Data Science from the computer science department of Claude Bernard Lyon 1 University. 
+Ph.D. candidate at the French national research institute Inria. My research focuses on machine learning for healthcare data, combining structured clinical data and medical imaging. I work on temporal phenotyping from high-dimensional electronic health records (EHR) using tensor factorization methods, as well as on medical image analysis. In particular, I develop deep learning models for vascular segmentation, modality transfer, and super-resolution in functional ultrasound (fUS) imaging. My goal is to design interpretable and efficient models that support data-driven discovery and decision-making in both clinical and preclinical settings.
+
 {style="text-align: justify;"}
 
